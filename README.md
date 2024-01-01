@@ -50,7 +50,7 @@ To solve this problem I use <b>s3 bucket</b>. First I extracted the join command
 ## Running the Script
 After doing the requirements, you are ready now, start cloning the repo to your machine:
 ``` shell
-git clone https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S.git
+git clone https://github.com/surajpjoshi/Kubernetes-infra-setup.git
 cd Terraform-Bulding-K8S/
 ```
 Now execute terraform commands:
