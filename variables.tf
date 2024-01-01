@@ -1,6 +1,6 @@
-variable "access_key" { #Todo: uncomment the default value and add your access key.
+variable "access_key" { 
         description = "Access key to AWS console"
-        default = "AKIAXCFEBKUKBAQ3IO75" 
+        default = "xxxxxxxxxxx"   #Todo:  add your access key.
 }
 
 variable "secret_key" {  #Todo: uncomment the default value and add your secert key.
